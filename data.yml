@@ -1,0 +1,42 @@
+datas_add:
+  - [3,3,6]
+  - [-1,-2,-3]
+  - [1000,1000,2000]
+  - [0.1,0.2,0.3]
+datas_sub:
+  - [3,3,0]
+  - [-1,-2,1]
+  - [1000,1000,0]
+
+datas_mul:
+  - [3,3,9]
+  - [-1,-2,2]
+  - [1.5,2,3]
+
+datas_div:
+  - [3,3,1]
+  - [-1,-2,0.5]
+  - [1000,1000,1]
+  - [10,3,3.33]
+
+myids_add:
+  - "int_add"
+  - "minus_add"
+  - "bigint_add"
+  - "float"
+
+myids_sub:
+  - "int_sub"
+  - "minus_sub"
+  - "bigint_sub"
+
+myids_mul:
+  - "int_mul"
+  - "minus_mul"
+  - "bigint_mul"
+
+myids_div:
+  - "int_div"
+  - "minus_div"
+  - "bigint_div"
+  - "float_div"
